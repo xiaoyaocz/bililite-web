@@ -1,0 +1,6 @@
+* [下载及安装](/)
+* [常见问题](/docs/help.md)
+* [安装问题](/docs/install_help.md)
+* [问题反馈](/docs/contact.md)
+* [更新日志](/docs/change_log.md)
+* [关于应用](/docs/about.md)

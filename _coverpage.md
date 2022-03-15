@@ -1,14 +1,12 @@
 <!-- _coverpage.md -->
 
-![logo](icon.svg)
+![logo](logo.png)
 
-# docsify <small>4.12.1</small>
+# BiliLite <small>4.3.8</small>
 
-> A magical documentation site generator.
+> 哔哩哔哩第三方UWP
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- 简洁、易用、流畅
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#headline)
+[获取源码](https://github.com/xiaoyaocz/biliuwp-lite/)
+[下载安装](#下载及安装)
