@@ -6,27 +6,23 @@
 
 ### 下载地址
 
-[蓝奏云](https://xiaoyaocz.lanzouv.com/b00versij)
+[蓝奏云](https://xiaoyaocz.lanzouv.com/b00vfcunc)
 
 [百度网盘(提取码:xycz)](https://pan.baidu.com/s/1nlnhe8xtGmV0kz-iNjH9HA) 
 
 ### 更新日志
 
-版本号:4.3.7
+版本号:4.3.8
 
-更新日期:2022/03/10
+更新日期:2022/03/14
 
 系统支持:Windows 10 17134及以上
 
 更新内容:
 
-* 新增直播默认画质调节
-* 更新登录API，新增短信登录
-* 新增倍速、静音快捷键
-* 评论支持显示用户装扮
-* 动态评论展示方式修改(右侧->中间)
-* 修复直播音量调节问题
-* 修复我的收藏加载失败问题
+* 修复首页Banner问题
+* 优化评论
+* 修复杜比视界无法播放问题
 * 修复其他问题
 
 [完整更新日志](/docs/change_log.md)
