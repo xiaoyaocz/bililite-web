@@ -1,5 +1,3 @@
-![首页](https://i.loli.net/2021/01/08/w8m12yjO4zBqnNL.png)
-
 # 常见问题
 
 ### 应用无法联网

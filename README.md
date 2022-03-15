@@ -1,3 +1,4 @@
+![首页](https://i.loli.net/2021/01/08/w8m12yjO4zBqnNL.png)
 # 下载及安装
 
 > 系统版本要求:Windows 10 17134及以上
@@ -9,6 +10,10 @@
 [蓝奏云](https://xiaoyaocz.lanzouv.com/b00vfcunc)
 
 [百度网盘(提取码:xycz)](https://pan.baidu.com/s/1nlnhe8xtGmV0kz-iNjH9HA) 
+
+------------
+
+👉[关注嘉然，顿顿解馋](https://space.bilibili.com/672328094)
 
 ### 更新日志
 
