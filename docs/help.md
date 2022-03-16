@@ -18,9 +18,9 @@
 
 * 在播放设置中更换视频类型
 
-* 如果你的视频类型选择了MP4-HEVC，请检查是否安装了HEVC扩展
+* 如果你的视频编码选择了HEVC，请检查是否安装了 [HEVC扩展](ms-windows-store://pdp/?productid=9n4wgh0z6vhq)
 
-HEVC扩展安装地址:[ms-windows-store://pdp/?productid=9n4wgh0z6vhq](ms-windows-store://pdp/?productid=9n4wgh0z6vhq)
+* 如果你的视频编码选择了AV1，请检查是否安装了[AV1扩展](ms-windows-store://pdp/?productid=9MVZQVXJBQ9V)，同时部分清晰度可能需要HEVC扩展
 
 ### 播放视频掉帧或卡死
 

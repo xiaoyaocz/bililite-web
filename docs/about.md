@@ -14,7 +14,7 @@
 
 # 其他UWP
 
-### 聚合直播
+### [聚合直播](https://www.microsoft.com/store/apps/9N1TWG2G84VD)
 ![](https://raw.githubusercontent.com/xiaoyaocz/AllLive/master/Screenshots/UWP1.png)
 
 [Github](https://github.com/xiaoyaocz/AllLive)
