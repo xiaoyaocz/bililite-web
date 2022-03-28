@@ -36,7 +36,7 @@
 
 下载解压文件，里面会有一个证书文件(.cer)及一个安装包文件(.appx或.msix)
 
-> 安装缺少框架包，请先[下载安装框架包](https://xiaoyaocz.lanzoux.com/iHTink6saih)
+> 安装缺少框架包，请先[下载安装框架包](https://xiaoyaocz.lanzouh.com/icZQo0267w0d)
 
 > 安装失败，请参考[安装问题](/docs/install_help.md)
 #### 一.安装证书
