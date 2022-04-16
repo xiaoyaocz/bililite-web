@@ -7,7 +7,7 @@
 
 ### 下载地址
 
-[蓝奏云](https://xiaoyaocz.lanzouv.com/b00vfcunc)
+[蓝奏云](https://xiaoyaocz.lanzouh.com/b00vjzuzg)
 
 [百度网盘(提取码:xycz)](https://pan.baidu.com/s/1nlnhe8xtGmV0kz-iNjH9HA) 
 
@@ -17,17 +17,17 @@
 
 ### 更新日志
 
-版本号:4.3.8
+版本号:4.3.10
 
-更新日期:2022/03/14
+更新日期:2022/04/16
 
 系统支持:Windows 10 17134及以上
 
 更新内容:
 
-* 修复首页Banner问题
-* 优化评论
-* 修复杜比视界无法播放问题
+* 增加自定义代理服务器
+* 增加发现页
+* 优化字幕
 * 修复其他问题
 
 [完整更新日志](/docs/change_log.md)
