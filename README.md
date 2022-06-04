@@ -1,12 +1,13 @@
-![首页](https://i.loli.net/2021/01/08/w8m12yjO4zBqnNL.png)
-
 # 下载及安装
 
 > 系统版本要求:Windows 10 17134及以上
 
 > ARM64未经过测试，如果ARM64遇到问题，尝试安装ARM版本
 
-### 下载地址
+版本号:4.4.0
+
+更新日期:2022/06/04
+
 
 [蓝奏云](https://xiaoyaocz.lanzouh.com/b00vqreod)
 
@@ -16,29 +17,11 @@
 一般电脑下载x64、x86包即可
 ```
 
+[新特性说明](/docs/what_is_new.md)  [更新日志](/docs/change_log.md)
+
 >  **👉橙子服装店开业啦！618不套路！纯棉T恤，超级特惠！单价￥29.8，两件仅需￥54.8！店内还有更多好货，快来看看吧！**
 
 [![淘宝店铺](/image/tb.png)](https://shop344472972.taobao.com)   [![拼多多店铺](/image/pdd.png)](http://mobile.yangkeduo.com/goods.html?goods_id=367590868305)
-
-### 更新日志
-
-版本号:4.4.0
-
-更新日期:2022/06/04
-
-系统支持:Windows 10 17134及以上
-
-更新内容:
-
-* 更新打包方式appx --> msix
-* 支持导出下载的视频为MP4文件
-* 支持按地区设置代理
-* 支持按地区搜索
-* 修复直播弹出错误提示
-* 修复其他的一些小问题
-
-[新特性说明](/docs/what_is_new.md)
-[完整更新日志](/docs/change_log.md)
 
 ### 如何安装
 
