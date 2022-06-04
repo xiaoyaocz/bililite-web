@@ -8,7 +8,7 @@
 
 ### 下载地址
 
-[蓝奏云](https://xiaoyaocz.lanzouh.com/b00vjzuzg)
+[蓝奏云](https://xiaoyaocz.lanzouh.com/b00vqreod)
 
 [百度网盘(提取码:xycz)](https://pan.baidu.com/s/1nlnhe8xtGmV0kz-iNjH9HA) 
 
@@ -16,25 +16,28 @@
 一般电脑下载x64、x86包即可
 ```
 
->  **👉橙子服装店开业啦！纯棉T恤，超级特惠！单价￥29.8，两件仅需￥54.8！**
+>  **👉橙子服装店开业啦！618不套路！纯棉T恤，超级特惠！单价￥29.8，两件仅需￥54.8！店内还有更多好货，快来看看吧！**
 
 [![淘宝店铺](/image/tb.png)](https://shop344472972.taobao.com)   [![拼多多店铺](/image/pdd.png)](http://mobile.yangkeduo.com/goods.html?goods_id=367590868305)
 
 ### 更新日志
 
-版本号:4.3.10
+版本号:4.4.0
 
-更新日期:2022/04/16
+更新日期:2022/06/04
 
 系统支持:Windows 10 17134及以上
 
 更新内容:
 
-* 增加自定义代理服务器
-* 增加发现页
-* 优化字幕
-* 修复其他问题
+* 更新打包方式appx --> msix
+* 支持导出下载的视频为MP4文件
+* 支持按地区设置代理
+* 支持按地区搜索
+* 修复直播弹出错误提示
+* 修复其他的一些小问题
 
+[新特性说明](/docs/what_is_new.md)
 [完整更新日志](/docs/change_log.md)
 
 ### 如何安装

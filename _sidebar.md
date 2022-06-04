@@ -1,4 +1,5 @@
 * [下载及安装](/ "BiliLite - 一个简单的哔哩哔哩UWP客户端")
+* [新特性说明](/docs/what_is_new.md "新特性说明 - BiliLite")
 * [常见问题](/docs/help.md "常见问题 - BiliLite")
 * [安装问题](/docs/install_help.md "安装问题 - BiliLite")
 * [问题反馈](/docs/contact.md "问题反馈 - BiliLite")
