@@ -2,7 +2,7 @@
 
 ![logo](logo.png)
 
-# BiliLite <small>4.4.0</small>
+# BiliLite <small>4.4.1</small>
 
 > 哔哩哔哩第三方UWP
 
